@@ -13,6 +13,17 @@
 - [Введение в Python](./lessons/sem01/lesson01/);
 - [Анатомия Python-программы](./lessons/sem01/lesson02/);
 - [Числовые типы данных](./lessons/sem01/lesson03/);
+- [Последовательности: списки и кортежи](./lessons/sem01/lesson04/);
+- [Последовательности: строки](./lessons/sem01/lesson05/);
+- [Словари и множества](./lessons/sem01/lesson06/);
+- [Пользовательские функции](./lessons/sem01/lesson07/);
+- [Замыкания и Декораторы](./lessons/sem01/lesson08/);
+- [Исключения](./lessons/sem01/lesson09/);
+- [Пользовательские классы](./lessons/sem01/lesson10/);
+- [ООП в Python](./lessons/sem01/lesson11/);
+
+**Домашние задания**:
+- [Домашнее задание 1](https://github.com/EvgrafovMichail/python_mipt_dafe_tasks/tree/main/homeworks/hw1);
 
 ## Практические задания:
 
