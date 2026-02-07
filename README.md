@@ -21,9 +21,18 @@
 - [Исключения](./lessons/sem01/lesson09/);
 - [Пользовательские классы](./lessons/sem01/lesson10/);
 - [ООП в Python](./lessons/sem01/lesson11/);
+- [Протоколы в Python](./lessons/sem01/lesson12/);
+- [Модули](./lessons/sem01/lesson13/);
 
 **Домашние задания**:
 - [Домашнее задание 1](https://github.com/EvgrafovMichail/python_mipt_dafe_tasks/tree/main/homeworks/hw1);
+
+## Весенний семестр
+
+Эта часть курса посвящена научным вычислениям и работе с данными на языке Python.
+
+**Содержание**:
+- [Менеджер пакетов и виртуальное окружение](./lessons/sem02/);
 
 ## Практические задания:
 
